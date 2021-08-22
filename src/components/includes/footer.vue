@@ -2,15 +2,15 @@
     <div>
         <section class="section">
             <div class="container-fluid py-4 footer">
-                Copyright 2021 by Robert Liang. Made with ♥ using Vue.js.
-            </div>
+                Made with &#10084; by Robert Liang using Vue
+           </div>
         </section>
     </div>
 </template>
 
 
 <style lang="css" scoped>
-    .footer{
+    .footer {
         background-color: #585e64;
         color: #efefef;
     }

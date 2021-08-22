@@ -7,14 +7,14 @@
                 <br><br>
                 Right now I'm a <strong>Member of Technical Staff</strong> at <strong>Cerebras Systems</strong>.
                 I graduated from <strong>MIT</strong> with a Master's and Bachelor's in electrical engineering and computer science.
-                In the past I've also worked as a quantitative researcher at <strong>Sandia Point Capital</strong>, graduate student at MIT's <strong>Center for Brains, Minds, and Machines</strong>, and software engineering intern at <strong>Google</strong>.
+                In the past I've also worked as a quantitative researcher at <strong>Sandia Point Capital</strong>, as a graduate student at MIT's <strong>Center for Brains, Minds, and Machines</strong>, and as a software engineering intern at <strong>Google</strong>.
                 <br><br>
-                <h3>I like...</h3>
-                ...software that's well designed and serves a good purpose
+                <h3>I love...</h3>
+                ...writing software that's well designed and serves a good purpose
                 <br><br>
-                ...machine learning, especially for understanding human languages (NLP) and behavior (recommender systems)
+                ...studying and applying machine learning, especially when used for understanding human languages (natural language processing) and behavior (recommender systems)
                 <br><br>
-                ...cutting edge research that pushes the limits of science and engineering
+                ...learning and teaching all sorts of things
                 <br><br>
                 <h3>In my spare time, I like to...</h3>
                 ...climb at Planet Granite
@@ -28,7 +28,7 @@
                 <br><br>
                 ...try new restaurants from Eater and recipes from NYTimes Cooking
                 <br><br>
-                ...try to learn Cantonese
+                ...learn and practice Cantonese
             </div>
         </section>
     </div>
@@ -36,17 +36,17 @@
 
 
 <style lang="css" scoped>
-    .about{
+    .about {
         background-color: #34345238;
-        padding-top: 8%;
-        padding-bottom: 5%;
+        padding-top: 4em;
+        padding-bottom: 3em;
         padding-left: 2em;
         padding-right: 2em;
     }
 
     .about-body {
         position: relative;
-        max-width: 600px;
+        max-width: 550px;
         left: 50%;
         -moz-transform: translateX(-50%);
         -webkit-transform: translateX(-50%);
